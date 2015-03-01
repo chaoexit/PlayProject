@@ -5,6 +5,7 @@
 # Home page
 GET         /                    controllers.Application.index
 GET         /result              controllers.Application.votingresult
+GET         /vote                controllers.Application.gotoVotePage
 
 POST        /voting              controllers.Voting.addVote
 
