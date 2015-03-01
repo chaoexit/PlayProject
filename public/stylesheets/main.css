@@ -13,7 +13,7 @@
 .rating {
     overflow: hidden;
     display: inline-block;
-    padding:10em;
+    padding:1.5em;
 
 }
 .rating-input {
@@ -32,7 +32,7 @@
     position: relative;
     float: right;
     display: block;
-    width: 16px;
-    height: 16px;
-    background: url('http://kubyshkin.ru/samples/star-rating/star.png') 0 -16px;
+    width: 100px;
+    height: 100px;
+    background: url('../images/star.png') 0 -100px;
 }
