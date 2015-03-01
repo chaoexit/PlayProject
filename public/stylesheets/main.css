@@ -1,3 +1,8 @@
+
+.commentBox {
+    height: 40%;
+    width: 30%;
+}
 #header {
     background-color:yellow;
     text-align:center;
